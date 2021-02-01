@@ -1,0 +1,49 @@
+{
+  "_from": "github:guilhae/ep_screenplay",
+  "_id": "ep_screenplay@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/ep_screenplay",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "guilhae/ep_screenplay",
+    "rawSpec": "guilhae/ep_screenplay",
+    "saveSpec": "github:guilhae/ep_screenplay",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:guilhae/ep_screenplay#c70429d7eb3ea9449e5a4d2919d8f77cf2a88442",
+  "_spec": "guilhae/ep_screenplay",
+  "_where": "/var/www/etherpad-lite",
+  "author": {
+    "name": "Guilherme Albuquerque",
+    "email": "guilha@drena.xyz"
+  },
+  "bugs": {
+    "url": "https://github.com/guilhae/ep_screenplay/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Adiciona algumas ferramentas para criação de roteiros",
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/guilhae/ep_screenplay#readme",
+  "keywords": [
+    "movie",
+    "script"
+  ],
+  "name": "ep_screenplay",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhae/ep_screenplay.git"
+  },
+  "version": "0.0.1"
+}
